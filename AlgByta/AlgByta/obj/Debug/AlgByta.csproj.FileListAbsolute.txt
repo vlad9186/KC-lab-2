@@ -1,0 +1,6 @@
+C:\Users\Владислав\Documents\Visual Studio 2015\Projects\AlgByta\AlgByta\bin\Debug\AlgByta.exe.config
+C:\Users\Владислав\Documents\Visual Studio 2015\Projects\AlgByta\AlgByta\bin\Debug\AlgByta.exe
+C:\Users\Владислав\Documents\Visual Studio 2015\Projects\AlgByta\AlgByta\bin\Debug\AlgByta.pdb
+C:\Users\Владислав\Documents\Visual Studio 2015\Projects\AlgByta\AlgByta\obj\Debug\AlgByta.csprojResolveAssemblyReference.cache
+C:\Users\Владислав\Documents\Visual Studio 2015\Projects\AlgByta\AlgByta\obj\Debug\AlgByta.exe
+C:\Users\Владислав\Documents\Visual Studio 2015\Projects\AlgByta\AlgByta\obj\Debug\AlgByta.pdb

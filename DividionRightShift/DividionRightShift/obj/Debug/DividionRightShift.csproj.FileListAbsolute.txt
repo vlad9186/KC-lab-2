@@ -1,0 +1,6 @@
+C:\Users\Владислав\Documents\Visual Studio 2015\Projects\DividionRightShift\DividionRightShift\bin\Debug\DividionRightShift.exe.config
+C:\Users\Владислав\Documents\Visual Studio 2015\Projects\DividionRightShift\DividionRightShift\bin\Debug\DividionRightShift.exe
+C:\Users\Владислав\Documents\Visual Studio 2015\Projects\DividionRightShift\DividionRightShift\bin\Debug\DividionRightShift.pdb
+C:\Users\Владислав\Documents\Visual Studio 2015\Projects\DividionRightShift\DividionRightShift\obj\Debug\DividionRightShift.csprojResolveAssemblyReference.cache
+C:\Users\Владислав\Documents\Visual Studio 2015\Projects\DividionRightShift\DividionRightShift\obj\Debug\DividionRightShift.exe
+C:\Users\Владислав\Documents\Visual Studio 2015\Projects\DividionRightShift\DividionRightShift\obj\Debug\DividionRightShift.pdb

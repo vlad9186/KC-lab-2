@@ -1,0 +1,6 @@
+C:\Users\Владислав\Documents\Visual Studio 2015\Projects\IEEE\IEEE\bin\Debug\IEEE.exe.config
+C:\Users\Владислав\Documents\Visual Studio 2015\Projects\IEEE\IEEE\bin\Debug\IEEE.exe
+C:\Users\Владислав\Documents\Visual Studio 2015\Projects\IEEE\IEEE\bin\Debug\IEEE.pdb
+C:\Users\Владислав\Documents\Visual Studio 2015\Projects\IEEE\IEEE\obj\Debug\IEEE.exe
+C:\Users\Владислав\Documents\Visual Studio 2015\Projects\IEEE\IEEE\obj\Debug\IEEE.pdb
+C:\Users\Владислав\Documents\Visual Studio 2015\Projects\IEEE\IEEE\obj\Debug\IEEE.csprojResolveAssemblyReference.cache
